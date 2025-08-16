@@ -1,11 +1,7 @@
 {
   "name": "js",
   "version": "1.0.0",
-  "description": "node test app yasin",
-  "keywords": [
-    "node",
-    "npm"
-  ],
+  "description": "",
   "homepage": "https://github.com/yasinenis/node-js-notes-patikadev#readme",
   "bugs": {
     "url": "https://github.com/yasinenis/node-js-notes-patikadev/issues"
@@ -15,13 +11,10 @@
     "url": "git+https://github.com/yasinenis/node-js-notes-patikadev.git"
   },
   "license": "ISC",
-  "author": "yasin sensei",
+  "author": "great yasin sensei",
   "type": "commonjs",
-  "main": "16-npm.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "moment": "^2.30.1"
   }
 }

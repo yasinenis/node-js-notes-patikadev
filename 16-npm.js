@@ -1,4 +1,5 @@
 /*
+npm init -> creating package
 
 npm install -> installs dependencies listed below dependencies title in package.json
 
